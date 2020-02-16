@@ -1,2 +1,2 @@
 # functional
-Functional and lambda rappers and utilities 
+Functional and lambda wrappers and utilities 
